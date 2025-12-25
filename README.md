@@ -78,4 +78,3 @@ This approach avoids transaction-level bias and reflects user-level impact.
 ## Dashboard
 An executive-facing Power BI dashboard was created to summarize insights and experiment outcomes.
 
-**Power BI Dashboard:** [ADD YOUR POWER BI LINK HERE]
